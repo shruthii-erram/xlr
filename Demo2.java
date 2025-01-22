@@ -1,4 +1,4 @@
-class Demo2{
+class Demo002{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter value of a: ");
