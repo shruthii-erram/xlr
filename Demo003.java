@@ -1,4 +1,4 @@
-class Demo3{
+class Demo003{
     public static void main(String []args){
         int a=10;
         int b=20;
