@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo18 {
+public class Demo0018 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of minutes: ");
