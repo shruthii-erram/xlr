@@ -1,5 +1,5 @@
 import java.util.*;
-public class Demo9{
+public class Demo009{
     String custumer_name ="Shruthi";
     long  Account_no = 1234;
     Double Balance=10000.00; 
