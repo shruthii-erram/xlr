@@ -6,7 +6,7 @@ class PalindromeOf3 {
     }
 }
 
-public class Demo0016 {
+public class Demo016 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a 3-digit number: ");
