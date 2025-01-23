@@ -15,7 +15,7 @@ import java.util.*;
             System.out.println("Your balance is"+Balance);
 
         }}
-        public class Demo10{
+        public class Demo0010{
         public static void main(String[] args){
             custumer obj=new custumer();
             obj.accept_details();
