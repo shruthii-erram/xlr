@@ -1,5 +1,5 @@
  import java.util.*;
- public class Demo13 {
+ public class Demo0013 {
 	public static double getTriangleArea(double s1,double s2,double s3){
 		double s = (s1 + s2 + s3) / 2;
 		double ta = Math.sqrt(s * (s - s1) * (s - s2) * (s-s3));
