@@ -16,7 +16,7 @@ class Tax {
         return totalTax;
     }
 }
-public class Demo21 {
+public class Demo021 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your monthly gross salary: ");
