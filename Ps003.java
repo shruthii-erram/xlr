@@ -47,7 +47,7 @@ class Bowler {
     }
 }
 
-public class PS003 {
+public class Ps003 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter bowler's name: ");
