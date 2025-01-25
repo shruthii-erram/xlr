@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Demo24 {
+public class Demo024 {
     public static void main(String[] args) {
         ArrayList<String> details1=new ArrayList<>();
         details1.add("Shruthi");
